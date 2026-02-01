@@ -1,43 +1,42 @@
 ## Hi 👋 I'm Alejandro
 
-🎓 Computer Science graduate from the University of Barcelona  
-🛠️ Systems-oriented developer with a strong interest in low-level software, Linux, and infrastructure
+🎓 Computer Science graduate — University of Barcelona  
+🛠️ Systems-oriented developer with a strong interest in Linux, backend development and infrastructure
 
-I enjoy understanding **how systems really work**: operating systems, networking, storage, processes, and automation.  
-More than just coding applications, I like building, customizing, and maintaining the software that *keeps systems running*.
-
-On this GitHub you'll find:
-- System-level projects
-- Backend and infrastructure-related code
-- Experiments focused on learning how things work under the hood
+I enjoy building and understanding software from the system level up: operating systems, automation, backend services and APIs.  
+I’m especially motivated by projects where **software development meets systems and infrastructure**.
 
 ---
 
-### 🔧 Technologies & Languages
+### 🔧 Technologies & Tools
 
-I regularly work with:
+Some of the technologies I use to work with:
 
-- **Bash** (automation, scripting, system tooling)
-- **Python** (APIs, tooling, backend services)
-- **C / C++** (low-level programming, performance-oriented code)
-- **Java** (academic and backend projects)
+**Languages**
+- Bash · Python · C · C++ · Java
 
-And I work mainly on **Linux-based environments**.
+**Backend & Databases**
+- Flask · FastAPI
+- MySQL · MongoDB (and other relational / NoSQL databases)
+
+**Infrastructure**
+- Linux
+- Docker
 
 ---
 
 ### 🧠 Areas of Interest
-
 - Linux & Operating Systems
-- System administration
-- DevOps & infrastructure
-- Networking fundamentals
-- Cybersecurity (especially system-level security)
+- Backend development
+- Sysadmin / DevOps
+- Infrastructure & Networking
+- System-level security
 
 I’m especially interested in roles where I can combine **systems knowledge + programming**, such as:
 - Junior Sysadmin
 - DevOps / Platform Engineer
 - Infrastructure or Security-related roles
+
 
 ---
 
